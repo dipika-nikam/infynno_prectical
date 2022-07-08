@@ -131,4 +131,4 @@ while True:
                     print(data["data"][i])
 
     else:
-        break
+        continue
